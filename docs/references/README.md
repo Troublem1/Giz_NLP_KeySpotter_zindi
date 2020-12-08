@@ -1,0 +1,3 @@
+# Giz_NLP_KeySpotter - References
+
+Papers, manuals, and all other explanatory materials.
